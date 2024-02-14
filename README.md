@@ -1,4 +1,4 @@
-# Поднять WordpPress c помощью docker-compose c доступом к сайту через nginx c сертификатами letsencrypt #
+# Поднять WORDPRESS c помощью docker-compose c доступом к сайту через nginx c сертификатами letsencrypt #
 
 Поднимаем так же базу данных MariaDB с доступом к ней через phpmyadmin
 
