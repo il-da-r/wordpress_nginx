@@ -1,0 +1,10 @@
+filenames:
+ - /var/log/nginx/*.log
+labels:
+  type: nginx
+---
+filenames:
+ - /var/log/auth-host.log
+ - /var/log/syslog-host
+labels:
+  type: syslog
